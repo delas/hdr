@@ -4,4 +4,6 @@ This University project, aims to experiment with Neural Networks technology. The
 
 An example of the recognized digits is:
 
+![](https://raw.githubusercontent.com/delas/hdr/master/stuff/example_mnist.gif "title")
+
 As Neural Networks library I used [FANN library](http://leenissen.dk/fann/) (Fast Artificial Neural Networks), in its origial C version: a great project. A great thank to all authors.
