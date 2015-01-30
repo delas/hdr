@@ -4,4 +4,4 @@ This University project, aims to experiment with Neural Networks technology. The
 
 An example of the recognized digits is:
 
-As Neural Networks library I used FANN library (Fast Artificial Neural Networks), in its origial C version: a great project. A great thank to all authors.
+As Neural Networks library I used [FANN library](http://leenissen.dk/fann/) (Fast Artificial Neural Networks), in its origial C version: a great project. A great thank to all authors.
