@@ -1,4 +1,4 @@
-# Handwritten Digit Recognition
+# Handwritten Digit Recognition [![Build Status](https://travis-ci.org/delas/hdr.svg?branch=master)](https://travis-ci.org/delas/hdr)
 
 This University project, aims to experiment with Neural Networks technology. The objective, as the name said, is the recognition of handwitten digit.
 
