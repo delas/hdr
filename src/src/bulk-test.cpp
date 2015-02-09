@@ -2,6 +2,7 @@
 #include <iostream>
 #include <sstream>
 #include <time.h>
+#include <string.h>
 #include "floatfann.h"
 
 using namespace std;
