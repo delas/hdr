@@ -2,7 +2,7 @@ language: cpp
 
 install:
  - sudo apt-get update
- - sudo apt-get install libfann2 libfann-dev
+ - sudo apt-get install libfann2 libfann-dev libdevil-dev
 
 script:
  - cd src
