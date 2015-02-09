@@ -1,0 +1,9 @@
+language: cpp
+
+install:
+ - sudo apt-get update
+ - sudo apt-get install libfann2 libfann-dev
+
+script:
+ - cd src
+ - make
